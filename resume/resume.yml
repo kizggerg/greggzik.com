@@ -1,0 +1,67 @@
+name: Greg Gzik
+full_name: Gregory Gzik
+title: Software Engineer I
+company: Galvanize
+website: www.greggzik.com
+linked_in: www.linkedin.com/in/gregory-gzik/
+github: www.github.com/kizggerg
+technologies:
+  languages:
+    - JavaScript / TypeScript
+    - Ruby
+    - C#
+    - Java
+    - Python
+  tools_and_frameworks:
+    - React
+    - NodeJS
+    - Terraform
+    - Rails
+    - .Net
+  databases:
+    - PostgreSQL
+    - DynamoDB
+    - Azure Cosmos DB
+  areas_of_interest:
+    - Web Development
+    - Full Stack Development
+    - Serverless
+    - Programming Languages and Compilers
+work_experience:
+  galvanzie:
+    year: May 2019 - Present
+    company: Galvanzie
+    title: Software Engineer I
+    description:
+      - Full stack web developer on customer facing products written with React, NodeJS, and Ruby on Rails and deployed via Terraform.
+      - Participated in the architecture design, development, and testing of new products and features.
+      - Monitored existing services and deployed products to production on a weekly basis.
+      - Mentored co-op students to introduce them to company culture and technology stack.
+      - Developed GitHub integrated code review system in days, which received second place for the Peoples Choice Award in the company hack-a-thon.
+internships:
+  delta_q:
+    year: May 2018 - Aug 2018
+    company: Delta-Q Technologies
+    title: Software Developer Intern
+    description:
+      - Developed a web-based platform in PHP and Java to automate the documentation workflow of embedded systems engineers.
+      - Designed an implemented an in-house Regression Testing Framework built on top of Selenium and TestNG.
+      - Designed and implemented a domain specific language, implemented in Python, to write deployment scripts.
+  kodak:
+    year: Sep 2017 - Apr 2018
+    company: Kodak Graphic Communications
+    title: Software Developer Intern
+    description:
+      - Developed a web application, implemented in C# with ASP .Net, to launch the building and testing of Kodak's core library on Windows and Mac environments.
+      - Designed and developed a web application, implemented in React, .Net, and Azure Cosmos DB, to automate the regression testing of PDF processors across a distrubuted network.
+      - Maintained corss platform command line interfaces, written in Python, used as build scripts for C++ executables.
+education:
+  year: Sep 2015 - May 2020
+  degree: Bachelor of Science
+  major: Major in Computer Science
+  institution: University of British Columbia
+  description:
+    - Average 84.4% across all courses (3.90 GPA).
+    - Graduated with dean's honours in the faculty of science.
+    - Became teaching assistant for the Introduction to Computer Systems from Jan 2019 - April 2020, tutoring students one on one in labs and grading homework assignments.
+    - Courses include Advanced Software Engineering, Introduction to Compiler Construction, Machine Learning and Data Mining, Introduction to Relational Databases, Computer Networking, and Introduction to Theory of Computing.
