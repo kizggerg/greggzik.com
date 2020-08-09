@@ -1,0 +1,13 @@
+{
+  "name": "greggzik.com",
+  "version": "1.0.0",
+  "description": "Monorepo for Website, LinkedIn, and Resume",
+  "repository": "git@github.com:kizggerg/greggzik.com.git",
+  "author": "kizggerg <gregory_gzik@acl.com>",
+  "private": true,
+  "workspaces": [
+    "linkedin",
+    "resume",
+    "website"
+  ]
+}

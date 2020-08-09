@@ -1,0 +1,26 @@
+{
+  "name": "@greggzik.com/resume",
+  "version": "1.0.0",
+  "description": "Generates a PDF resume based on a static template",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": "babel src -d dist",
+    "clean": "rm -rf dist/*",
+    "generate": "node dist/resume.js",
+    "execute": "yarn clean && yarn build && yarn generate"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^1.6.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-plugin-convert-to-json": "^0.1.0",
+    "babel-plugin-import-static-files": "^1.0.4"
+  }
+}

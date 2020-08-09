@@ -13,8 +13,8 @@ technologies:
     - Java
     - Python
   tools_and_frameworks:
-    - React
     - NodeJS
+    - React
     - Terraform
     - Rails
     - .Net
@@ -28,9 +28,9 @@ technologies:
     - Serverless
     - Programming Languages and Compilers
 work_experience:
-  galvanzie:
+  galvanize:
     year: May 2019 - Present
-    company: Galvanzie
+    company: Galvanize
     title: Software Engineer I
     description:
       - Full stack web developer on customer facing products written with React, NodeJS, and Ruby on Rails and deployed via Terraform.
@@ -54,7 +54,7 @@ internships:
     description:
       - Developed a web application, implemented in C# with ASP .Net, to launch the building and testing of Kodak's core library on Windows and Mac environments.
       - Designed and developed a web application, implemented in React, .Net, and Azure Cosmos DB, to automate the regression testing of PDF processors across a distrubuted network.
-      - Maintained corss platform command line interfaces, written in Python, used as build scripts for C++ executables.
+      - Maintained cross platform command line interfaces, written in Python, used as build scripts for C++ executables.
 education:
   year: Sep 2015 - May 2020
   degree: Bachelor of Science
@@ -65,3 +65,20 @@ education:
     - Graduated with dean's honours in the faculty of science.
     - Became teaching assistant for the Introduction to Computer Systems from Jan 2019 - April 2020, tutoring students one on one in labs and grading homework assignments.
     - Courses include Advanced Software Engineering, Introduction to Compiler Construction, Machine Learning and Data Mining, Introduction to Relational Databases, Computer Networking, and Introduction to Theory of Computing.
+meta:
+  title: Resume
+  author: Gregory Gzik
+  subject: Resume for Gregory Gzik
+  keywords: resume, cv
+  creator: Gregory Gzik
+  producer: Gregory Gzik
+headers:
+  work_experience: Work Experience
+  education: Education
+  website: Website
+  linked_in: Linked In
+  github: Github
+  languages: Languages
+  frameworks: Tools and Frameworks
+  databases: Databases
+  interests: Areas of Interest
